@@ -12,5 +12,7 @@
 | 2024 | **EMNLP**  | SoBP      | [Structured Optimal Brain Pruning for Large Language Models](https://aclanthology.org/2024.emnlp-main.775.pdf) |                                                              |
 | 2024 | **EMNLP**  | PM        | [Pruning via Merging: Compressing LLMs via Manifold Alignment Based Layer Merging](https://aclanthology.org/2024.emnlp-main.987.pdf) | [Code](https://github.com/SempraETY/Pruning-via-Merging)     |
 | 2024 | **EMNLP**  |           | [Is C4 Dataset Optimal for Pruning? An Investigation of Calibration Data for LLM Pruning](https://aclanthology.org/2024.emnlp-main.1004.pdf) | [Code](https://github.com/abx393/llm-pruning-calibration-data) |
+| 2024 | **AAAI**   | FLAP      | [Fluctuation-based Adaptive Structured Pruning for Large Language Models](https://arxiv.org/abs/2312.11983) | [Code](https://github.com/CASIA-IVA-Lab/FLAP)                |
+| 2024 | **AAAI**   | ESPD      | [EPSD: Early Pruning with Self-Distillation for Efficient Model Compression](https://arxiv.org/abs/2402.00084) |                                                              |
 | 2023 | **ICML**   | SparseGPT | [SparseGPT: Massive Language Models Can Be Accurately Pruned in One-Shot](https://arxiv.org/pdf/2301.00774) | [Code](https://github.com/IST-DASLab/sparsegpt)              |
 
