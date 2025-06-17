@@ -6,6 +6,7 @@
 | ---- | ---------- | --------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 2025 | **ArXiv**  |           | [Learning to Focus: Causal Attention Distillation via Gradient-Guided Token Pruning](https://arxiv.org/abs/2506.07851) |                                                              |
 | 2025 | **ICML**   | SlimLLM   | [Slim: Accurate Structured Pruning for Large Language Models](https://www.arxiv.org/abs/2505.22689) |                                                              |
+| 2025 | **ICML**   | Olica     | [Olica: Efficient Structured Pruning of Large Language Models without Retraining](https://arxiv.org/abs/2506.08436) | [Code](https://github.com/BetterTMrR/LLM-Olica)              |
 | 2025 | **ICML**   | DLP       | [DLP: Dynamic Layerwise Pruning in Large Language Models](https://arxiv.org/abs/2505.23807) | [Code](https://github.com/ironartisan/DLP)                   |
 | 2025 | **ICML**   | SkipGPT   | [SkipGPT: Dynamic Layer Pruning Reinvented with Token Awareness and Module Decoupling](https://arxiv.org/abs/2506.04179) |                                                              |
 | 2025 | **ACL**    | SPRINT    | [Structured Pruning for Diverse Best-of-N Reasoning Optimization](https://www.arxiv.org/abs/2506.03978) | [Code](https://github.com/HieuNT91/attention_pruning)        |
